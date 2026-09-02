@@ -1,0 +1,33 @@
+# Base — módulo 1
+jupyterlab
+python-dotenv
+openai
+anthropic
+google-genai
+ollama
+tiktoken
+
+# Módulo 2 — UI, streaming, tools
+gradio
+
+# Módulo 3 — modelos abiertos
+transformers
+accelerate
+bitsandbytes
+
+# Módulo 5 — RAG
+langchain
+chromadb
+faiss-cpu
+scikit-learn
+
+# Módulo 6/7 — entrenamiento y fine-tuning
+scikit-learn
+datasets
+peft
+trl
+wandb
+
+# Módulo 8 — agentes
+pydantic-ai
+modal
