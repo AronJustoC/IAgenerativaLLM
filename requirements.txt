@@ -19,9 +19,12 @@ bitsandbytes
 
 # Módulo 5 — RAG
 langchain
+langchain-google-genai
+langchain-chroma
 chromadb
 faiss-cpu
 scikit-learn
+matplotlib
 
 # Módulo 6/7 — entrenamiento y fine-tuning
 scikit-learn
