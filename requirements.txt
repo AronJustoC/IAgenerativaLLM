@@ -6,11 +6,13 @@ anthropic
 google-genai
 ollama
 tiktoken
+ipywidgets
 
 # Módulo 2 — UI, streaming, tools
 gradio
 
 # Módulo 3 — modelos abiertos
+# torch con CUDA: pip install torch --index-url https://download.pytorch.org/whl/cu126
 transformers
 accelerate
 bitsandbytes
