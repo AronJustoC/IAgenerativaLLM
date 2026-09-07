@@ -33,3 +33,4 @@ wandb
 # Módulo 8 — agentes
 pydantic-ai
 modal
+soundfile  # ASR pipeline (modulo 3, proyecto 3)
